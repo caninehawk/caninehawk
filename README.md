@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Sandeep Katna 👋</h2>
-<div align="center">
+<div align="left">
 <p>I'm a passionate Software Engineer and Graduate Student at San Jose State University with hands-on experience building scalable systems and innovative applications. I love solving complex problems through clean architecture and modern technologies.</p>
 </div>
 ###
@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caninehawk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -28,7 +27,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="30" alt="node.js logo">
+  <img width="12" />
+  <!-- <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++ logo"  />
+  <img width="12" /> -->
 </div>
 
 ###
@@ -46,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/caninehawk/caninehawk/output/snake.svg" alt="Snake animation" />
 
 ###
