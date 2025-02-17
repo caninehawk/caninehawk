@@ -1,5 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<h2 align="left">Hi, I'm Sandeep Katna 👋</h2>
+<div align="center">
+<p>I'm a passionate Software Engineer and Graduate Student at San Jose State University with hands-on experience building scalable systems and innovative applications. I love solving complex problems through clean architecture and modern technologies.</p>
+</div>
 ###
 
 <div align="center">
