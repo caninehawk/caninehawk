@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Sleep Stage Prediction using Activity**
 
-- 🌱 I’m currently learning **System Designs**
+- 🌱 I’m currently learning **Systems Design**
 
 - 📫 How to reach me **k.sandeep.shandilya39@gmail.com**
 
