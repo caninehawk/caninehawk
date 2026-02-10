@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **k.sandeep.shandilya39@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ccEdqG49hOiNtiFpziui_wrkbdVmkZDb/view?usp=drive_link](https://drive.google.com/file/d/1ccEdqG49hOiNtiFpziui_wrkbdVmkZDb/view?usp=drive_link)
 
 
 
